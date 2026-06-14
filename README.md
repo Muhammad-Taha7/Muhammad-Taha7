@@ -1,76 +1,77 @@
-<h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
+<h1 align="center">Muhammad Taha</h1>
+<p align="center"><strong>MERN Stack & Frontend Web Developer</strong></p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+Developer;UI%2FUX+Enthusiast;Freelancer+on+Fiverr+%26+Upwork;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%26+Next.js+Expert;UI%2FUX+Focused+Frontend+Engineer;Freelance+Software+Engineer" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 👋 Hi, I’m **Muhammad Taha**
-- 💻 Front-End Developer (React & Tailwind CSS)
-- 👀 Interested in **Website Development & UI Design**
-- 🌱 Currently studying at **National Textile University, Faisalabad**
-- 🤝 Looking to collaborate on **Freelance Projects (Fiverr & Upwork)**
-- ⚡ I love building modern, responsive web apps
+## Profile
+A dedicated and detail-oriented Frontend Developer specializing in building high-performance, responsive, and user-centric web applications. Experienced in modern JavaScript frameworks, state management, and crafting seamless digital experiences.
+
+* 🎓 **Education:** Pursuing a Bachelor's degree at the National Textile University, Faisalabad.
+* 💼 **Freelancing:** Providing high-quality development solutions on Fiverr and Upwork.
+* 🎯 **Core Focus:** Clean architecture, performance optimization, and responsive design.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Competencies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vercel" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha7&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 💼 Projects
+## Featured Projects
 
-- 🔥 Instagram Clone (React + Firebase)
-- 💬 Chat App (Real-time Messaging)
-- 🛒 E-commerce UI (Tailwind CSS + React)
-- 📝 Todo App (Firebase Auth + Database)
+### 🛍️ E-Commerce Application
+* Developed a fully responsive e-commerce interface utilizing React and Tailwind CSS.
+* Features optimized UI layouts, state-driven cart mechanics, and fluid navigation.
+
+### 💬 Real-Time Chat Platform
+* Built a dynamic messaging application featuring real-time data sync.
+* Engineered secure user authentication and instant database updates.
+
+### 📸 Social Media Platform Clone
+* Formed a functional clone focusing on complex UI layouts and media rendering.
+* Integrated dynamic data fetching and state management for seamless interaction.
 
 ---
 
-## 📫 Connect With Me
+## Connect & Collaborate
 
 <p align="center">
-  <a href="https://facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Muhammad-Taha7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:tahadev37@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-I turn coffee ☕ + ideas 💡 into real-world web applications 🌍
-
----
-
 <p align="center">
-  🚀 "Always learning, always building, always improving."
+  <em>"Transforming complex logic into seamless, high-performance user experiences."</em>
 </p>
