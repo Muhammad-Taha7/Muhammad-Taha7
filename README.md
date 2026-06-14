@@ -1,77 +1,85 @@
 <h1 align="center">Muhammad Taha</h1>
-<p align="center"><strong>MERN Stack & Frontend Web Developer</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%26+Next.js+Expert;UI%2FUX+Focused+Frontend+Engineer;Freelance+Software+Engineer" alt="Typing Animation" />
+  <strong>Frontend Web Developer | UI/UX Engineer | React Specialist</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Engineer;React+%26+Next.js+Developer;UI%2FUX+Focused+Creator;Freelance+Frontend+Developer" alt="Typing Animation" />
 </p>
 
 ---
 
-## Profile
-A dedicated and detail-oriented Frontend Developer specializing in building high-performance, responsive, and user-centric web applications. Experienced in modern JavaScript frameworks, state management, and crafting seamless digital experiences.
+## 👨‍💻 Profile Overview
 
-* 🎓 **Education:** Pursuing a Bachelor's degree at the National Textile University, Faisalabad.
-* 💼 **Freelancing:** Providing high-quality development solutions on Fiverr and Upwork.
-* 🎯 **Core Focus:** Clean architecture, performance optimization, and responsive design.
+A passionate and detail-oriented **Frontend Developer** focused on building fast, responsive, and visually refined web applications. I specialize in creating scalable UI architectures and delivering seamless user experiences using modern JavaScript frameworks.
+
+- 🎓 **Education:** Bachelor’s student at National Textile University, Faisalabad  
+- 💼 **Freelancing:** Working with clients on Fiverr & Upwork  
+- 🎯 **Focus Areas:** UI/UX Design, Component Architecture, Performance Optimization  
+- 🚀 **Goal:** Build production-level web applications that deliver real impact  
 
 ---
 
-## Core Competencies
+## ⚙️ Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux,firebase,git,github,vercel,figma" />
 </p>
 
 ---
 
-## Performance & Contributions
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha7&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha7&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🛍️ E-Commerce Application
-* Developed a fully responsive e-commerce interface utilizing React and Tailwind CSS.
-* Features optimized UI layouts, state-driven cart mechanics, and fluid navigation.
+### 🛒 E-Commerce Frontend Platform
+A fully responsive and modern shopping interface built with React & Tailwind CSS.  
+Focused on reusable components, state-driven cart system, and clean UI architecture.
 
-### 💬 Real-Time Chat Platform
-* Built a dynamic messaging application featuring real-time data sync.
-* Engineered secure user authentication and instant database updates.
+### 💬 Real-Time Chat Interface
+A dynamic messaging UI with instant updates and smooth interactions.  
+Built with performance-first rendering and responsive design principles.
 
-### 📸 Social Media Platform Clone
-* Formed a functional clone focusing on complex UI layouts and media rendering.
-* Integrated dynamic data fetching and state management for seamless interaction.
+### 📸 Social Media UI Clone
+A pixel-perfect social media interface clone featuring dynamic feeds, media grids, and interactive components with a native-app feel.
 
 ---
 
-## Connect & Collaborate
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/Muhammad-Taha7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="mailto:tahadev37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Transforming complex logic into seamless, high-performance user experiences."</em>
+  <em>
+    "Crafting modern, scalable, and high-performance frontend experiences with attention to detail."
+  </em>
 </p>
