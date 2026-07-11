@@ -1,85 +1,166 @@
 <h1 align="center">Muhammad Taha</h1>
 
 <p align="center">
-  <strong>Frontend Web Developer | UI/UX Engineer | React Specialist</strong>
+  <strong>MERN Stack Developer | React.js Developer | Full Stack Web Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Engineer;React+%26+Next.js+Developer;UI%2FUX+Focused+Creator;Freelance+Frontend+Developer" alt="Typing Animation" />
-</p>
-
----
-
-## 👨‍💻 Profile Overview
-
-A passionate and detail-oriented **Frontend Developer** focused on building fast, responsive, and visually refined web applications. I specialize in creating scalable UI architectures and delivering seamless user experiences using modern JavaScript frameworks.
-
-- 🎓 **Education:** Bachelor’s student at National Textile University, Faisalabad  
-- 💼 **Freelancing:** Working with clients on Fiverr & Upwork  
-- 🎯 **Focus Areas:** UI/UX Design, Component Architecture, Performance Optimization  
-- 🚀 **Goal:** Build production-level web applications that deliver real impact  
-
----
-
-## ⚙️ Core Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux,firebase,git,github,vercel,figma" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+Developer;Node.js+%26+Express.js;MongoDB+Developer;Redux+Toolkit+%26+Firebase;Building+Modern+Web+Applications" alt="Typing Animation" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha7&show_icons=true&theme=tokyonight&hide_border=true" />
+Hi, I'm **Muhammad Taha**, a passionate **MERN Stack Developer** from Pakistan 🇵🇰.
+
+I enjoy building modern, responsive, and scalable web applications using the MERN Stack. I love solving real-world problems through clean code and continuously learning new technologies.
+
+- 🎓 BS Computer Science Student
+- 💻 MERN Stack Developer
+- 🌱 Currently improving Backend Development & System Design
+- 🚀 Passionate about Full Stack Web Development
+- 🎯 Goal: Become a Professional Software Engineer & Build Successful SaaS Products
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha7&theme=tokyonight&hide_border=true" />
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha7&layout=compact&theme=tokyonight&hide_border=true" />
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Currently Learning
 
-### 🛒 E-Commerce Frontend Platform
-A fully responsive and modern shopping interface built with React & Tailwind CSS.  
-Focused on reusable components, state-driven cart system, and clean UI architecture.
-
-### 💬 Real-Time Chat Interface
-A dynamic messaging UI with instant updates and smooth interactions.  
-Built with performance-first rendering and responsive design principles.
-
-### 📸 Social Media UI Clone
-A pixel-perfect social media interface clone featuring dynamic feeds, media grids, and interactive components with a native-app feel.
+- Advanced MERN Stack
+- Authentication & Authorization (JWT)
+- REST APIs
+- Performance Optimization
+- Deployment
+- Clean Code & Best Practices
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taha7&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <a href="https://github.com/Muhammad-Taha7">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taha7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-  <a href="mailto:tahadev37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taha7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🛒 MERN E-Commerce Store
+
+- React.js
+- Redux Toolkit
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Responsive UI
+
+---
+
+## ✅ MERN Task Manager
+
+- CRUD Operations
+- REST APIs
+- MongoDB
+- Express.js
+- React
+- Responsive Dashboard
+
+---
+
+## 💬 Real-Time Chat App
+
+- React.js
+- Firebase Authentication
+- Firestore Database
+- Responsive Design
+
+---
+
+## 📸 Social Media Web App
+
+- React.js
+- Redux Toolkit
+- Firebase
+- Responsive UI
+- Modern User Experience
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Taha7&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Muhammad-Taha7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tahadev37@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
+
 </p>
 
 ---
 
 <p align="center">
-  <em>
-    "Crafting modern, scalable, and high-performance frontend experiences with attention to detail."
-  </em>
+
+⭐ From <a href="https://github.com/Muhammad-Taha7">Muhammad Taha</a>
+
 </p>
